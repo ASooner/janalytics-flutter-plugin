@@ -15,7 +15,7 @@ A new Flutter plugin.
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency 'JCore','3.2.9-noidfa'
+  s.dependency 'JCore','4.2.0-noidfa'
   s.dependency 'JAnalytics','2.1.2'
   s.ios.deployment_target = '8.0'
   s.static_framework = true
